@@ -1,8 +1,8 @@
 <?php
 
 echo "Hello World From Heroku Server!";
-echo "Github!";
+echo "</BR>Github!";
 
-</BR>
+
 echo "Test!";
 ?>
