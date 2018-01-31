@@ -16,7 +16,7 @@ echo "Test!";
 
 <template>
   <h2>DBS</h2>
-  <img src="https://orig00.deviantart.net/d29a/f/2016/118/a/f/dbs_kaioken_10x_blue_wallpaper_champa_arc___1_by_windyechoes-da0mehx.jpg">
+  <img src="https://www.nationalgeographic.com/content/dam/science/photos/000/065/6594.ngsversion.1509199314694.adapt.1900.1.jpg">
 </template>
 
 <p>A later example will show you how to use JavaScript to display the template content.</p>
