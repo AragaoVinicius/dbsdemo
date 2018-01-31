@@ -16,7 +16,7 @@ echo "Test!";
 
 <template>
   <h2>Flower</h2>
-  <img src="img_white_flower.jpg" width="214" height="204">
+  <img src="https://windyechoes.deviantart.com/art/DBS-Kaioken-10x-Blue-Wallpaper-Champa-Arc-1-605706981" width="214" height="204">
 </template>
 
 <p>A later example will show you how to use JavaScript to display the template content.</p>
